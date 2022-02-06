@@ -1,12 +1,26 @@
 
 <!-- ENCABEZADO -->
-<h3 align="center"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Axel Alemán 👨🏻 </h3>
+<div>
+ <img src="https://user-images.githubusercontent.com/56330832/152663773-99eef0d9-85cb-4c03-aa61-88924c8c2d78.png" width="150" align="left">
+ <h3 align="left"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Axel Alemán 👨🏻 </h3>
+ <h1 align="left"> FullStack Web Developer in progress 👨‍💻 </h1>
+ 
+ **Contact me** <br>
+  <a href="www.linkedin.com/in/AxelAlemán" target="_blank">
+    <img align="center" width="150" src="https://user-images.githubusercontent.com/56330832/152663944-a7665345-e523-4fca-a4d4-01eb09ab5269.svg">
+  </a>
+  <a href="mailto:axelad38@gmail.com" target="_blank">
+    <img align="center" width="150" src="https://user-images.githubusercontent.com/56330832/152663869-cf7afa5a-a4b9-4808-9a0d-aa6de3fd677e.svg">
+  </a>
+</div>
 
-<h1 align="center"> FullStack Web Developer in progress 👨‍💻 </h1>
 
+
+---
 
 <br>
 
+## 👨 About me
 Hello, I am a student of Information Technology Engineering, about to graduate. I am very interested in the world of web development, especially the Frontend area, which is why I decided to self-learn the necessary technologies to become a full stack developer.
 I like to create systems with elegant and easy-to-use interfaces, putting myself in the shoes of the end customer.
 
@@ -23,10 +37,3 @@ I like to create systems with elegant and easy-to-use interfaces, putting myself
     <img align="center" alt="Laravel" height="30" width="30" src="https://user-images.githubusercontent.com/56330832/152662409-90c987a0-abee-4dfd-86aa-7f673b19cce0.png">
     <img align="center" alt="Figma" height="30" width="30" src="https://user-images.githubusercontent.com/56330832/152662417-89f46212-c9f6-43dc-a8cb-02d24a3d6a9b.png">
  </div>
- 
- 
- 
- <!-- CONTACTO -->
-## 🤝🏻 Contact me
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/AxelAlemán)
-[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:axelad38@gmail.com)

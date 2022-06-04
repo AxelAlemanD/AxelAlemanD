@@ -31,7 +31,7 @@
 ## 👨 About me
 <div>
   <p>
-    Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am a student of Information Technology Engineering, about to graduate. I am very interested in the world of web development, especially the Frontend area, which is why I decided to self-learn the necessary technologies to become a full stack developer.
+    Hello, I am a student of Information Technology Engineering, about to graduate. I am very interested in the world of web development, especially the Frontend area, which is why I decided to self-learn the necessary technologies to become a full stack developer.
     I like to create systems with elegant and easy-to-use interfaces, putting myself in the shoes of the end customer.
   </p>  
 </div>
